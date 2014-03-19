@@ -4,5 +4,5 @@ int main()
 
 {
   printf("hello hello...\n");
-  printf("Hello to you too.")
+  printf("helo to you too.")
 }
